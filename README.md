@@ -18,4 +18,4 @@ The HR Dashboard Analysis by Data Visualization is a tool designed to provide in
 
 ~Export and Share: The dashboard allows users to export visualizations and reports for presentations, sharing with stakeholders, or further analysis.
 
-![Uploading Screenshot 2023-07-27 at 1.07.18 AM.jpg…]()
+![Screenshot 2023-07-27 at 1 07 18 AM](https://github.com/sujay2008/HR_DASHBOARD_ANALYTICS/assets/138650290/03c2f4b5-1945-4326-b666-992a738cb637)
