@@ -3,9 +3,11 @@
 
 HR Dashboard Analysis by Data Visualization
 Overview
+
 The HR Dashboard Analysis by Data Visualization is a tool designed to provide insights and analysis of various human resources metrics using interactive data visualizations. This dashboard aims to assist HR professionals, managers, and decision-makers in gaining a comprehensive understanding of critical HR KPIs, identifying trends, and making data-driven decisions.
 
 Features
+
 ~Interactive Data Visualizations: The dashboard offers a range of interactive charts and graphs that enable users to explore HR data from different perspectives and levels of granularity.
 
 ~Key HR Metrics: The dashboard presents essential HR metrics such as employee turnover rate and attrition rates. 
