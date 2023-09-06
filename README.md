@@ -1,4 +1,4 @@
-# HR_DASHBOARD_ANALYTICS
+# 1) HR_DASHBOARD_ANALYTICS
 
 
 HR Dashboard Analysis by Data Visualization
@@ -16,7 +16,8 @@ Drawing insights from the analysis, this section provides actionable recommendat
 
 ![Screenshot 2023-07-27 at 1 07 18 AM](https://github.com/sujay2008/HR_DASHBOARD_ANALYTICS/assets/138650290/03c2f4b5-1945-4326-b666-992a738cb637)
 
-# E-commerce_sales_dashboard_using_POWERBI
+
+# 2) E-commerce_sales_dashboard_using_POWERBI
 Heyy People, I’ve created an interactive dashboard to track and analyse online sales data
 
 I’ve used complex parameters to drill down in worksheet and did some customization using filters and slicers!!
