@@ -15,3 +15,17 @@ The report begins by providing an overview of the attrition rate during the repo
 Drawing insights from the analysis, this section provides actionable recommendations to reduce attrition and enhance employee retention. These recommendations may include revamping career development programs, implementing work-life balance initiatives, conducting leadership training, or revisiting compensation and benefits packages.
 
 ![Screenshot 2023-07-27 at 1 07 18 AM](https://github.com/sujay2008/HR_DASHBOARD_ANALYTICS/assets/138650290/03c2f4b5-1945-4326-b666-992a738cb637)
+
+# E-commerce_sales_dashboard_using_POWERBI
+Heyy People, I’ve created an interactive dashboard to track and analyse online sales data
+
+I’ve used complex parameters to drill down in worksheet and did some customization using filters and slicers!!
+
+# SKILLS
+Data Visualization with Microsoft Power BI
+
+Data Transformation
+
+Searching and filtering
+
+<img width="1440" alt="Screenshot 2023-07-23 at 8 28 24 PM" src="https://github.com/sujay2008/E-commerce_sales_dashboard/assets/138650290/cdada0d0-425c-4ebc-80a0-43798d0f92ef">
