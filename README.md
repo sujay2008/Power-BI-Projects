@@ -29,7 +29,7 @@ Data Transformation
 
 Searching and filtering
 
-<img width="1440" alt="Screenshot 2023-07-23 at 8 28 24 PM" src="https://github.com/sujay2008/E-commerce_sales_dashboard/assets/138650290/cdada0d0-425c-4ebc-80a0-43798d0f92ef">
+<img width="1440" alt="Screenshot 2023-07-23 at 8 28 24 PM" src="https://github.com/sujay2008/Power-BI-Projects/assets/138650290/f29ef8bf-9df5-414e-932b-6dae87b5f16e">
 
 # 3) SuperStore Sales dashboard
 
